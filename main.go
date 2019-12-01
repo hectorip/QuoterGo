@@ -15,6 +15,7 @@ func main() {
 	r := gin.Default()
 	r.GET("/hello/:name", helloHandler)
 	r.GET("/random", randomQuote)
+	r.GET("/all", allQuotes)
 	r.Run()
 }
 
@@ -22,6 +23,12 @@ func helloHandler(c *gin.Context) {
 	c.JSON(200, gin.H{
 		"message": fmt.Sprintf("Hola %s", c.Param("name")),
 	})
+}
+
+func allQuotes(c *gin.Context) {
+	quotes := getQuotes()
+	q := indexQuotes(quotes)
+	c.JSON(200, q)
 }
 
 func randomQuote(c *gin.Context) {
@@ -67,4 +74,16 @@ func pickOne(choices []Quote) Quote {
 	rand.Seed(time.Now().Unix())
 	index := rand.Int() % len(choices)
 	return choices[index]
+}
+
+func indexQuotes(quotes []Quote) (result []map[string]interface{}) {
+
+	for i, q := range quotes {
+		result = append(result, map[string]interface{}{
+			"id":     i,
+			"text":   q.Text,
+			"author": q.Author,
+		})
+	}
+	return
 }

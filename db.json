@@ -1,0 +1,252 @@
+[
+    {
+        "author": " Rick Cook",
+        "id": 0,
+        "text": "Hoy, la programación es una carrera entre los ingenieros de software luchando para construir más grandes y mejores origramas a prueba de idiotas y el universo tratando de construir más grandes y mejores idiotas. Hast ahora el universo va ganando."
+    },
+    {
+        "author": " Alan Kay",
+        "id": 1,
+        "text": "Lisp no es un lenguaje, es un material de construcción."
+    },
+    {
+        "author": " Edward V Berard",
+        "id": 2,
+        "text": "Caminar en agua y desarrollar software desde una especificación es fácil si están congeladas"
+    },
+    {
+        "author": " Olav Mjelde",
+        "id": 3,
+        "text": "Ya no hacen bugs como Bunny."
+    },
+    {
+        "author": " Alan J. Perlis",
+        "id": 4,
+        "text": "Un lenguaje de programación es de bajo nivel cuando sus programas requieren atención en lo irrelevante."
+    },
+    {
+        "author": " Waldi Ravens",
+        "id": 5,
+        "text": "Un programa en C es como un baile rápido en un piso recientemente encerado, de personas que traen navajas."
+    },
+    {
+        "author": " Bjarne Stroustrup",
+        "id": 6,
+        "text": "Siempre he deseado que mi computadora sea tan fácil de usar como mi teléfono; mi sueño se ha hecho realidad porque ya no puedo entender como usar mi teléfono."
+    },
+    {
+        "author": " Eric S. Raymond",
+        "id": 7,
+        "text": "Le educación en ciencias de la computación no puede hacer a nadie un experto programando más de lo que estudiar brochas y pigmentos convierte a alguien en un pintor experto."
+    },
+    {
+        "author": " Mosher’s Law of Software Engineering",
+        "id": 8,
+        "text": "No te preocupes si no funciona correctamente. Si todo funcionara, no tendrías trabajo."
+    },
+    {
+        "author": " Oktal",
+        "id": 9,
+        "text": "Pienso que Microsoft nombró a .Net para que no apareciera en listado en los directorios de Unix."
+    },
+    {
+        "author": " pixadel",
+        "id": 10,
+        "text": "Bien, Java PUDIERA ser un buen ejemplo de cómo debería ser un lenguaje de programación. Pero las aplicaciones de Java son buenos ejemplos de lo que las aplicaciones NO DEBERÍAN ser."
+    },
+    {
+        "author": " Bill Clinton",
+        "id": 11,
+        "text": "Considerando el triste estado de nuestros programas de computadora, el desarrollo de software es claramente un arte oscuro que no puede ser llamdo aún una disciplina de la ingeniería."
+    },
+    {
+        "author": " E.W. Dijkstra",
+        "id": 12,
+        "text": "El uso de COBOL lisia la mente; su enseñanza debería ser considerada como una ofensa criminal."
+    },
+    {
+        "author": " Roberto Waltman",
+        "id": 13,
+        "text": "La versón orientada a objetos de 'Código espagueti' es, por supuesto 'Código lasagna' (demasiadas capas)."
+    },
+    {
+        "author": " Alan J. Perlis",
+        "id": 14,
+        "text": "FORTRAN no es una flor sino una hierba, es resistente, ocasionalmente florece, y crece en cada computadora."
+    },
+    {
+        "author": " Bill Bryson",
+        "id": 15,
+        "text": "Por largo tiempo me rompía la cabeza como algo tan caro, tan avanzado, podía ser tan inútil. Y entonces se me ocurrió que la computadora es una máquina estúpida con la capacidad de hacer cosas increíblemente impresionantes, mientras que los programadores son personas inteligentes con la capacidad de hacer cosas increíblemente estúpidas. En resumen, son la combinación perfecta."
+    },
+    {
+        "author": " Blair P.Houghton.\"",
+        "id": 16,
+        "text": "En Mi Opinión Egoísta, la mayoría de los programas en C de las personas deberían estar indentados seis pies y cubiertos con tierra."
+    },
+    {
+        "author": " Alan J.Perlis\"",
+        "id": 17,
+        "text": "Cuando alguien dice 'Quiero un lenguaje de programación en el que sólo tenga que decir lo que quiero hecho', dale una paleta de dulce."
+    },
+    {
+        "author": " Ron Sercely",
+        "id": 18,
+        "text": "La evolución de los lenguajes: FORTRAN es un lenguaje sin tipos. C es un lenguaje débilmente tipado. Ada es un lenguaje fuértemente tipado. C++ es un lenguaje fuértemente sobrevalorado."
+    },
+    {
+        "author": " Thomas C.Gale\"",
+        "id": 19,
+        "text": "El buen diseño agrega valor más rápido de lo que agrega costo."
+    },
+    {
+        "author": " Cory Dodt",
+        "id": 20,
+        "text": "Python es un reemplazo para BASIC en el mismo sentido en que Optimus Prime es un reemplazo para un camión."
+    },
+    {
+        "author": " Linus Torvalds",
+        "id": 21,
+        "text": "Hablar es fácil. Muéstrame el código."
+    },
+    {
+        "author": " Antoine de Saint-Exupéry",
+        "id": 22,
+        "text": "La perfección es alcanzada, no cuando no hay nada más que añadir, sino cuando no hay nada más que quitar."
+    },
+    {
+        "author": " Dennis M. Ritchie",
+        "id": 23,
+        "text": "C es raro, imperfecto y un éxito enorme."
+    },
+    {
+        "author": " YoggiBerra",
+        "id": 24,
+        "text": "En teoría, práctica y teoría son lo mismo. En la práctica no."
+    },
+    {
+        "author": " JimMcCarthy\"",
+        "id": 25,
+        "text": "No puedes tener gran software sin un gran equipo, y la mayoría de los equipos de software se comportan como familias disfuncionales."
+    },
+    {
+        "author": " Jon Ribbens",
+        "id": 26,
+        "text": "PHP es un mal menor perpetrado por amateurs incompetentes, mientras que Perl es un gran e insidioso mal perpetrado por hábiles pero perversos profesionales."
+    },
+    {
+        "author": " Kyle Woodbury",
+        "id": 27,
+        "text": "La programación es como patearte a ti mismo en la cara, tarde o temprano te sangrará la nariz."
+    },
+    {
+        "author": " Keith Bostic",
+        "id": 28,
+        "text": "Perl – El único lenguaje que luce igual antes y después de cifrado RSA."
+    },
+    {
+        "author": " Larry Wall",
+        "id": 29,
+        "text": "Es más fácil portar un ejecutor de línea de comandos que un script de ese ejecutor."
+    },
+    {
+        "author": " Alan Kay",
+        "id": 30,
+        "text": "Yo inventé el término 'orientado a objetos' y puedo decirte que no tenía a C++ en la cabeza."
+    },
+    {
+        "author": " Ted Nelson",
+        "id": 31,
+        "text": "Aprender a progrmar no tiene más que ver con el diseño de software interactivo que aprender a mecanografiar con escribir poesía."
+    },
+    {
+        "author": " Randall E. Stross",
+        "id": 32,
+        "text": "Los mejores programadores no son marginalmente mejores que los meramente buenos. Son mejores por un orden de magnitud, medidos en cualquier estándar: creatividad conceptual, velocidad, originalidad del diseño o la habilidad de resolución de problemas."
+    },
+    {
+        "author": " Mark Minasi",
+        "id": 33,
+        "text": "Si McDonalds funcionara como una compañía de software, una de cada cien Big Macs te envenenaría, y la respuesta sería: 'Lo sentimos, aquí tienes un cupón para dos más'"
+    },
+    {
+        "author": " Donald E. Knuth",
+        "id": 34,
+        "text": "Ten cuidado de los bugs en el código de arriba, sólo he demostrado que es correcto, pero no lo he probado."
+    },
+    {
+        "author": " Tom DeMarco",
+        "id": 35,
+        "text": "El análisis de sistemas computacionales es como la crianza de niños; puedes hacer un grave daño pero no puedes asegurar el éxito."
+    },
+    {
+        "author": " Vidiu Platon",
+        "id": 36,
+        "text": "¡No me importa si funciona en tu máquina! ¡No vamos a envíar tu máquina!"
+    },
+    {
+        "author": " Christopher Thompson",
+        "id": 37,
+        "text": "Algunas veces sale mejor estar todo el Lunes en la cama, que pasar el resto de la semana debuggeando el código del Lunes."
+    },
+    {
+        "author": " Bill Gates",
+        "id": 38,
+        "text": "Medir el progreso en la programación por líneas de código es como medir el avance en la construcción de aviones por el peso."
+    },
+    {
+        "author": " Brian W.Kernighan.\"",
+        "id": 39,
+        "text": "Debugger es lo doble de difícil que escribir código en primer lugar. Entonces, si escribes código tan inteligentemente como puedas, eres, por definición, menos inteligente de lo necesario para debuggearlo."
+    },
+    {
+        "author": " Donald Knuth",
+        "id": 40,
+        "text": "Las personas piensan que las ciencias de computación son un arte de genios, pero la realidad es la contraria, solo es mucha gente haciendo cosas que se constuyen sobre otras, como una pared de mini-piedras."
+    },
+    {
+        "author": " George Carrette",
+        "id": 41,
+        "text": "Primero aprende ciencias de la computación y toda la teoría. Después desarrolla un estilo de programación. Entonces olvida todo y sólo hackea."
+    },
+    {
+        "author": " Larry Wall",
+        "id": 42,
+        "text": "La mayoría está familiriazdo con las virtudes de un programador. Hay tres, por supuesto: pereza, impaciencia y soberbia."
+    },
+    {
+        "author": " Alan Kay",
+        "id": 43,
+        "text": "La mayoría del software hoy es como una pirámide egipcia con millones de tabiques apilados encima de otros, sin integridad estructural, hechos por fuerza bruta y cientos de esclavos."
+    },
+    {
+        "author": " Seymour Cray",
+        "id": 44,
+        "text": "El problema con los programadores es que no puedes saber lo que está haciendo hasta que es demasiado tarde."
+    },
+    {
+        "author": " L. Peter Deutsch",
+        "id": 45,
+        "text": "Iterar es humano, recursar (usar recursión) divino"
+    },
+    {
+        "author": " Charles Babbage",
+        "id": 46,
+        "text": "En dos ocasiones me han preguntado: 'Señor Babbage, si pone en la máquina números incorrector, ¿obtendrá las respuestas adecuadas?' No soy capaz de comprender correctamente el tipo de confusión que provoca semejante pregunta."
+    },
+    {
+        "author": " Linus Torvalds",
+        "id": 47,
+        "text": "La mayoría de los buenos programadores programan no porque esperen paga o adulación del público, sino porque es divertido programar."
+    },
+    {
+        "author": " Martin Golding",
+        "id": 48,
+        "text": "Siempre programa como si el tipo que terminará manteniendo tu código fuera un psicópata violento que sabe dónde vives."
+    },
+    {
+        "author": " C.A.R. Hoare",
+        "id": 49,
+        "text": "Hay dos formar de hacer un diseño de software. Una es hacerlo tan simple que no obviamente no haya deficiencias. Y la otra es hacerlo tan complicado que no haya deficiencias obvias."
+    }
+]
